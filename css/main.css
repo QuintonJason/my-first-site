@@ -1,1 +1,28 @@
 /* Place CSS styles here */
+body {
+    background-color: #dcdc6a;
+    color: #800080;
+}
+
+img {
+    width: 250px;
+    margin-right: 16px;
+    border: 3px solid #5b3416;
+}
+
+div {
+    background-color: cyan;
+    text-align: center;
+    padding: 50px;
+    max-width: 900px;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    margin: 40px auto;
+    border: 3px solid #5b3416;
+    border-radius: 20px;
+}
+
+.fencing-wrapper {
+    background-color: #00c200;
+}
