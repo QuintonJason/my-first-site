@@ -1,4 +1,8 @@
 /* Place CSS styles here */
+html {
+    scroll-behavior: smooth;
+}
+
 body {
     background-color: #dcdc6a;
     color: #800080;
