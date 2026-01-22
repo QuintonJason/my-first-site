@@ -10,6 +10,18 @@ body {
     font-family: "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
 }
 
+a {
+    color: #590259;
+}
+
+h1 {
+    color: pink;
+}
+
+.contact h1 {
+
+}
+
 img {
     width: 250px;
     margin-right: 16px;
